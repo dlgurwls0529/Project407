@@ -22,5 +22,5 @@
 3. 예상되는 변화  
 관명을 바꿀 수 있어야 한다.  
 
-
+https://ssabi.tistory.com/7  
   
