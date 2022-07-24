@@ -23,4 +23,12 @@
 관명을 바꿀 수 있어야 한다.  
 
 https://ssabi.tistory.com/7  
+
+git error 해결법 : LF will be replaced by CRLF in README.md.  
+https://wotres.tistory.com/entry/git-warning-LF-will-be-replaced-by-CRLF-in-READMEmd  
+
+Git push가 안되는 경우 (fatal: refusing to merge unrelated  
+https://gdtbgl93.tistory.com/63
   
+[ git 기본 ] git pull 시 특정 branch 를 pull 해오기 - 개발이야기
+https://potensj.tistory.com/90
